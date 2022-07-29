@@ -1,1 +1,2 @@
 # thicongsonnuocgiabao
+# web_static
