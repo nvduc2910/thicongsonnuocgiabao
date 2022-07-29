@@ -1,0 +1,57 @@
+HTTrack3.49-2 launched on Fri, 29 Jul 2022 10:09:31 at http://thicongsonnuoclocphat.com/
+(winhttrack http://thicongsonnuoclocphat.com/ -O "/Users/duckie2910/Documents/website-projects/thi_cong_son_nuoc /thicongsonnuocgiare" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:13:57	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=8
+10:13:57	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=8 to http://thicongsonnuoclocphat.com/gio-hang/
+10:14:00	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=313
+10:14:00	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=313 to http://thicongsonnuoclocphat.com/gioi-thieu/
+10:14:00	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=314
+10:14:00	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=314 to http://thicongsonnuoclocphat.com/son-nuoc/
+10:14:00	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=323
+10:14:00	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=323 to http://thicongsonnuoclocphat.com/thach-cao/
+10:14:00	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=15
+10:14:00	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=15 to http://thicongsonnuoclocphat.com/sua-chua-nha/
+10:14:00	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=21
+10:14:00	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=21 to http://thicongsonnuoclocphat.com/du-an-thuc-hien/
+10:14:00	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=23
+10:14:00	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=23 to http://thicongsonnuoclocphat.com/lien-he/
+10:14:00	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=228
+10:14:00	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=228 to http://thicongsonnuoclocphat.com/__trashed/
+10:14:02	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=225
+10:14:02	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=225 to http://thicongsonnuoclocphat.com/225/
+10:14:02	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=223
+10:14:02	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=223 to http://thicongsonnuoclocphat.com/223/
+10:14:02	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=221
+10:14:02	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=221 to http://thicongsonnuoclocphat.com/221/
+10:14:02	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=219
+10:14:02	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=219 to http://thicongsonnuoclocphat.com/219/
+10:14:02	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=217
+10:14:02	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=217 to http://thicongsonnuoclocphat.com/217/
+10:14:02	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=215
+10:14:02	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=215 to http://thicongsonnuoclocphat.com/215/
+10:14:02	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=213
+10:14:02	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=213 to http://thicongsonnuoclocphat.com/213/
+10:14:20	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=10
+10:14:20	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=10 to http://thicongsonnuoclocphat.com/tai-khoan/
+10:14:28	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=211
+10:14:28	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=211 to http://thicongsonnuoclocphat.com/211/
+10:14:28	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=205
+10:14:28	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=205 to http://thicongsonnuoclocphat.com/205/
+10:14:28	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=98
+10:14:28	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=98 to http://thicongsonnuoclocphat.com/cua-nhom-kinh-gia-re-tp-hcm/
+10:14:28	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=209
+10:14:28	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=209 to http://thicongsonnuoclocphat.com/209/
+10:14:28	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/?p=207
+10:14:28	Warning: 	File has moved from thicongsonnuoclocphat.com/?p=207 to http://thicongsonnuoclocphat.com/207/
+10:14:28	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/category/son-nuoc-gia-re/page/1/
+10:14:28	Warning: 	File has moved from thicongsonnuoclocphat.com/category/son-nuoc-gia-re/page/1/ to http://thicongsonnuoclocphat.com/category/son-nuoc-gia-re/
+10:14:35	Warning: 	Moved Permanently for thicongsonnuoclocphat.com/author/mevivu/page/1/
+10:14:35	Warning: 	File has moved from thicongsonnuoclocphat.com/author/mevivu/page/1/ to http://thicongsonnuoclocphat.com/author/mevivu/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 5 seconds : 251 links scanned, 227 files written (7916518 bytes overall) [4075606 bytes received at 13362 bytes/sec], 5214541 bytes transferred using HTTP compression in 160 files, ratio 23%, 12.6 requests per connection
+(No errors, 46 warnings, 0 messages)
