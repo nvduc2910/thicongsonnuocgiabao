@@ -722,6 +722,70 @@
     </style>
 </head>
 <style>
+    @media only screen and (max-width: 600px) {
+        iframe {
+            height: 315px;
+        }
+    }
+    
+    .social-button {
+        display: inline-grid;
+        position: fixed;
+        background-color: rgba(255, 255, 255, 0) !important;
+        bottom: 15px;
+        right: 20px;
+        min-width: 45px;
+        text-align: center;
+        z-index: 99999;
+    }
+    
+    .social-button-content {
+        display: inline-grid;
+    }
+    
+    .social-button a {
+        padding: 8px 0;
+        cursor: pointer;
+        position: relative;
+    }
+    
+    .social-button i {
+        width: 40px;
+        height: 40px;
+        background: #F05A5E;
+        color: #fff;
+        border-radius: 100%;
+        font-size: 20px;
+        text-align: center;
+        line-height: 1.9;
+        position: relative;
+        z-index: 999;
+    }
+    
+    .social-button span {
+        display: none;
+    }
+    
+    .mes:hover>span,
+    .zalo:hover>span {
+        display: block
+    }
+    
+    .social-button a span {
+        border-radius: 2px;
+        text-align: center;
+        background: #ffffff;
+        padding: 9px;
+        display: none;
+        width: 180px;
+        margin-right: 10px;
+        position: absolute;
+        color: #ffffff;
+        z-index: 999;
+        top: 9px;
+        right: 20px;
+    }
+    
     .textwidget {
         text-align: left !important;
     }
@@ -1202,6 +1266,10 @@
                             <h2 style="text-align: center;"></h2>
                             <h4>Bạn muốn tìm một đơn vị thi công sửa nhà giá rẻ, chuyên nghiệp tại HCM- Bình Dương để sửa chữa, cải tạo hay xây mới cho ngôi nhà của mình.Đơn vị thi công sữa chữa nhà cửa trọn gói chuyên nghiệp tại HCM- Bình Dương.</h4>
                             <h2></h2>
+                            <div style="text-align: center;  ">
+
+                                <iframe width="100%" height="500" src="https://www.youtube.com/embed/fzDihqvqlzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div> <br>
                             <h1 style="text-align: center;"><span style="color:  #446084;"><strong><u>BẢNG BÁO GIÁ SƠN
 											NƯỚC</u></strong></span></h1>
                             <div class="row" id="row-916247286">
@@ -2060,6 +2128,16 @@
 
 
     </div>
+    <div class="social-button">
+        <div class="social-button-content">
+            <a href="https://zalo.me/0971052123" target="_blank" class="zalo">
+                <img src="https://nocodebuilding.com/wp-content/uploads/2020/07/zl.png" alt="Chat Zalo">
+            </a>
+        </div>
+
+    </div>
+
+
 
     <script type="text/javascript">
         (function() {
